@@ -41,26 +41,26 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.owner = ['6285822347348'] //ur owner number
-global.ownername = "ArullOfc"
-global.ytname = "YT:ARULL OFC " //ur yt chanel name
+global.owner = ['94770611075'] //ur owner number
+global.ownername = "x_ᴇxᴘᴇʀᴛ_x"
+global.ytname = "x_ᴇxᴘᴇʀᴛ_x " //ur
 global.socialm = "GitHub: Warikrr" //ur github or insta name
 global.location = "Indonesia, Kalimantan Selatan, Kotabaru" //ur location
 
 //bot bombdy
 global.botname = "ArullBotz" //ur bot name
-global.websitex = "https://youtube.com/channel/UC1ikkqsPvtWuE_QonsET1yg" //ur website
+global.websitex = "https://t.me/trxexpertt" //ur website
 global.vidmenu = { url: 'https://a.uguu.se/eFNTvNt.mp4' } //gif and video menu
 global.packname = "Sticker By"
-global.author = "ArullBotz"
+global.author = "x_ᴇxᴘᴇʀᴛ_x"
 global.themeemoji = "🐶"
 global.reactmoji = "🗿"
-global.ownertag = ['ArullOfc'] //ur owner tag
-global.ownernummenu = ['6285822347348'] //ur owner number in menu and all
+global.ownertag = ['x_ᴇxᴘᴇʀᴛ_x'] //ur owner tag
+global.ownernummenu = ['94770611075'] //ur owner number in menu and all
 global.watermark = "ArullBotz" //ur watermark
-global.botscript = "https://youtu.be/Gr6yuCbSGTI"
-global.linkz1 = "https://chat.whatsapp.com/F6CAAOhrORm1sPdq6cRKAS"
-global.linkz2 = "https://youtube.com/channel/UC1ikkqsPvtWuE_QonsET1yg"
+global.botscript = "https://chat.whatsapp.com/Go9cBxSneUpGDbl6gKdF7E"
+global.linkz1 = "https://chat.whatsapp.com/Go9cBxSneUpGDbl6gKdF7E"
+global.linkz2 = "https://t.me/trxexpertt"
 
 //Bot theme media
 global.thum = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
