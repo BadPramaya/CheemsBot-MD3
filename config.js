@@ -4,21 +4,6 @@
 //pls give credit
 //no credit? i will take action immediately
 //© 2022 Xeon Bot Inc. Cheems Bot MD
-//Thank you to Lord Buddha, Family and Myself
-//════════════════════════════//
-//recode kar ke youtube pe upload kar rhe ya
-//codes copy kar ke apne script me dal rhe
-//hai to, description me xeon ka yt channel
-// ka link paste kr dena as a cradit or github 
-//repo me bhi tag kardena baki jo
-//bhi karna hai apki marzi, thank you!🦄
-//════════════════════════════//
-//If you recode and uploading on your channel
-//or copy pasting the codes in ur script, 
-//i give permission to do as long as you
-//put Xeons youtube channel link in the video
-//description and tag me on githuh repo, 
-//thank you🦄
 //════════════════════════════//
 
 const fs = require("fs")
@@ -48,16 +33,15 @@ global.socialm = "GitHub: Warikrr" //ur github or insta name
 global.location = "Indonesia, Kalimantan Selatan, Kotabaru" //ur location
 
 //bot bombdy
-global.botname = "ArullBotz" //ur bot name
+global.botname = "x_ᴇxᴘᴇʀᴛ_x" //ur bot name
 global.websitex = "https://t.me/trxexpertt" //ur website
-global.vidmenu = { url: 'https://a.uguu.se/eFNTvNt.mp4' } //gif and video menu
 global.packname = "Sticker By"
 global.author = "x_ᴇxᴘᴇʀᴛ_x"
 global.themeemoji = "🐶"
 global.reactmoji = "🗿"
 global.ownertag = ['x_ᴇxᴘᴇʀᴛ_x'] //ur owner tag
 global.ownernummenu = ['94770611075'] //ur owner number in menu and all
-global.watermark = "ArullBotz" //ur watermark
+global.watermark = "x_ᴇxᴘᴇʀᴛ_x" //ur watermark
 global.botscript = "https://chat.whatsapp.com/Go9cBxSneUpGDbl6gKdF7E"
 global.linkz1 = "https://chat.whatsapp.com/Go9cBxSneUpGDbl6gKdF7E"
 global.linkz2 = "https://t.me/trxexpertt"
