@@ -1544,7 +1544,7 @@ const jumlahUser = pendaftar.length
 const menulist = `┌─❖
 │「 Hallo 👋 」
 └┬❖ 「 ${pushname} 」
-┌┤✑  Ada Yang Bisa Saya Bantu? 
+┌┤✑ HAVE A NICE DAY😁   
 │└────────────┈ ⳹
 │
 └─「 𝘽𝙊𝙏 𝙄𝙉𝙁𝙊 」       
@@ -1571,8 +1571,8 @@ const menulist = `┌─❖
 │𝗬𝗼𝘂𝗿 𝗘𝗺𝗲𝗿𝗮𝗹𝗱 : ${getEmerald(m.sender)}
 │𝗬𝗼𝘂𝗿 𝗣𝗼𝘁𝗶𝗼𝗻 : ${getPotion(m.sender)}
 └┬────────────┈ ⳹
-   │✑  silahkan pilih
-   │✑  Tombol Di Bawah
+   │✑  SRI LANKA
+   │✑  ʙʏ ᴘʀᴀᴍᴀʏᴀ✅
    └─────────────┈ ⳹`
 const qtod = m.quoted? "true":"false"
 
@@ -1751,13 +1751,13 @@ if (isBanChat) return reply(mess.banChat)
 reply(` Don't forget to join yeah!
 
 *GROUP 1*
-https://chat.whatsapp.com/F6CAAOhrORm1sPdq6cRKASl
+https://chat.whatsapp.com/Go9cBxSneUpGDbl6gKdF7E
 
 *GROUP 2*
-https://chat.whatsapp.com/GdXv5LxKfDPHJ4WOH2rNu5l
+https://chat.whatsapp.com/Go9cBxSneUpGDbl6gKdF7E
 
 *GROUP 3*
-https://chat.whatsapp.com/GdXv5LxKfDPHJ4WOH2rNu5l`)
+https://t.me/trxexpertt`)
 break
 case 'getsxvdxcmd': {
 if (isBan) return reply(mess.ban)	 			
