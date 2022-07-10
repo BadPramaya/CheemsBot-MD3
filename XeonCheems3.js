@@ -9275,7 +9275,7 @@ break
 let template = await generateWAMessageFromContent(m.chat, proto.Message.fromObject({
                 listMessage :{
                     title: `Hallo ${pushname}`,
-                    description: `x_ᴇxᴘᴇʀᴛ ʙᴏᴛ_x\n\n`,
+                    description: `𝘞𝘌𝘓𝘊𝘖𝘔𝘌 𝘛𝘖 𝘌𝘟𝘗𝘌𝘙𝘛 𝘉𝘖𝘛 𝘔𝘌𝘕𝘜\n\n`,
                     buttonText: "Menu",
                     footerText: `${global.botname}`,
                     listType: "SINGLE_SELECT",
