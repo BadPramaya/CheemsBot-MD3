@@ -30,7 +30,7 @@ global.owner = ['94770611075'] //ur owner number
 global.ownername = "x_ᴇxᴘᴇʀᴛ_x"
 global.ytname = "x_ᴇxᴘᴇʀᴛ_x " //ur
 global.socialm = "GitHub: Warikrr" //ur github or insta name
-global.location = "Indonesia, Kalimantan Selatan, Kotabaru" //ur location
+global.location = "Indonesia, Sri Lanka, Kotabaru" //ur location
 
 //bot bombdy
 global.botname = "x_ᴇxᴘᴇʀᴛ_x" //ur bot name
@@ -39,9 +39,9 @@ global.packname = "Sticker By"
 global.author = "x_ᴇxᴘᴇʀᴛ_x"
 global.themeemoji = "🐶"
 global.reactmoji = "🗿"
-global.ownertag = ['x_ᴇxᴘᴇʀᴛ_x'] //ur owner tag
+global.ownertag = ['©️ x_ᴇxᴘᴇʀᴛ ʙᴏᴛ_x'] //ur owner tag
 global.ownernummenu = ['94770611075'] //ur owner number in menu and all
-global.watermark = "x_ᴇxᴘᴇʀᴛ_x" //ur watermark
+global.watermark = "©️ x_ᴇxᴘᴇʀᴛ ʙᴏᴛ_x" //ur watermark
 global.botscript = "https://chat.whatsapp.com/Go9cBxSneUpGDbl6gKdF7E"
 global.linkz1 = "https://chat.whatsapp.com/Go9cBxSneUpGDbl6gKdF7E"
 global.linkz2 = "https://t.me/trxexpertt"
@@ -79,14 +79,14 @@ global.antitags = true
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.mess = {
     success: 'Done✓',
-    admin: '*Khusus Admin*',
-    botAdmin: '*Bot Bukan Admin*',
-    owner: '*Khusus Pemilik Bot*',
-    group: '*Khusus Didalam Group*',
-    private: '*Khusus Chat Private*',
-    bot: '*Khusus Yang Jadibot*',
-    wait: '*Sabar...Orang sabar disayang janda*',
-    linkm: '*Linknya Mana?*',
+    admin: '*Admin only*',
+    botAdmin: '*Bot Not Admin*',
+    owner: '*Bᴏt Owner Only*',
+    group: '*Special in Group*',
+    private: '*Private Chat Only*',
+    bot: '*Specially the Jadibot*',
+    wait: '*Be patient ... Patient people love widows*',
+    linkm: '*Where's the link?*',
     error: 'Error!',
     ban: 'You have been banned by the owner, if you want to be unbanned, chat owner.',
     nsfw: 'The nsfw feature has not been activated, please contact the admin to activate',
