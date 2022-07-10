@@ -53,7 +53,7 @@ console.log(color(figlet.textSync('Cheems Bot-MD', {
         }), 'yellow'))
 console.log(color('\n🐶 YT CHANNEL:','silver'))
 console.log(color('🐶 GITHUB:','silver'))
-console.log(color('🐶 WA NUMBER: +24105166540','silver'))
+console.log(color('🐶 WA NUMBER: +94770611075','silver'))
 console.log(color('Hendraa','mediumseagreen'))
     console.log(color('🐶','red'), color('I Wrote This Script By Myself!', 'yellow'))
     console.log(color('🐶','red'), color('Source Code Version: 3.0', 'aqua'))
