@@ -1544,7 +1544,7 @@ const jumlahUser = pendaftar.length
 const menulist = `┌─❖
 │「 Hallo 👋 」
 └┬❖ 「 ${pushname} 」
-┌┤✑  Ada Yang Bisa Saya Bantu? 
+┌┤✑  HAVE NICE DAY 🥰 
 │└────────────┈ ⳹
 │
 └─「 𝘽𝙊𝙏 𝙄𝙉𝙁𝙊 」       
@@ -1571,8 +1571,8 @@ const menulist = `┌─❖
 │𝗬𝗼𝘂𝗿 𝗘𝗺𝗲𝗿𝗮𝗹𝗱 : ${getEmerald(m.sender)}
 │𝗬𝗼𝘂𝗿 𝗣𝗼𝘁𝗶𝗼𝗻 : ${getPotion(m.sender)}
 └┬────────────┈ ⳹
-   │✑  silahkan pilih
-   │✑  Tombol Di Bawah
+   │✑ x_ᴇxᴘᴇʀᴛ_x
+   │✑  ʙʏ ᴘʀᴀᴍᴀʏᴀ
    └─────────────┈ ⳹`
 const qtod = m.quoted? "true":"false"
 
@@ -9275,7 +9275,7 @@ break
 let template = await generateWAMessageFromContent(m.chat, proto.Message.fromObject({
                 listMessage :{
                     title: `Hallo ${pushname}`,
-                    description: `Silahkan Pilih Menunya\n\n`,
+                    description: `x_ᴇxᴘᴇʀᴛ ʙᴏᴛ_x\n\n`,
                     buttonText: "Menu",
                     footerText: `${global.botname}`,
                     listType: "SINGLE_SELECT",
