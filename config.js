@@ -41,7 +41,7 @@ global.reactmoji = "🗿"
 global.ownertag = ['✅x_ᴇxᴘᴇʀᴛ ʙᴏᴛ_x'] //ur owner tag
 global.ownernummenu = ['94770611075'] //ur owner number in menu and all
 global.watermark = "✅x_ᴇxᴘᴇʀᴛ ʙᴏᴛ_x" //ur watermark
-global.botscript = "https://youtu.be/Gr6yuCbSGTI"
+global.botscript = "https://chat.whatsapp.com/Go9cBxSneUpGDbl6gKdF7E"
 global.linkz1 = "https://chat.whatsapp.com/Go9cBxSneUpGDbl6gKdF7E"
 global.linkz2 = "https://t.me/trxexpertt"
 
